@@ -1,1 +1,2 @@
 <div class="alert alert-success">شما در حال استفاده از آخرین نسخه قالب هشتگ هستید و فعلا هیچ آپدیتی برای این قالب وجود ندارد</div>
+<div id="15528012205933217"><script type="text/JavaScript" src="https://www.aparat.com/embed/sKoSc?data[rnddiv]=15528012205933217&data[responsive]=yes"></script></div>
