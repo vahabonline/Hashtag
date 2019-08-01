@@ -1,1 +1,1 @@
-<div class="alert alert-success">شما در حال استفاده از آخرین نسخه افزونه پیام کوتاه <a href="http://vahabonline.ir" target="_blank">وهاب آنلاین</a> هستید .</div>
+<div class="alert alert-danger">شما در حال استفاده از نسخه 1 افزونه می باشد . ما افزونه را به نسخه 2.1 ارتقا داده ایم و امکانات جدیدی در آن درج نموده ایم . لطفا ابتدا اطلاعات بروزرسانی را در <a href="http://vahabonline.ir/products/whmcs-additives/vahabonline-sms-module/" target="_blank">این بخش</a> مطالعه نموده و نسبت به آپدیت محصول خود اقدام نمایید</div>
