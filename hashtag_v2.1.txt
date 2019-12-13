@@ -8,7 +8,8 @@
     <li>رفع تمام مشکلات سبد خرید</li>
   </ul>
   <p>
-  هم اکنون فایل جدید قالب را از <strong><a href="http://up.vols.ir/client/file-sharing/guest-download/7352298189" style="color:#ffce0f" target="_blank">این لینک</a></strong> دانلود نمایید و در مسیر templates آپلود نموده و اکسترکت کنید .<br>
+  هم اکنون فایل جدید قالب را از <strong><a href="http://up.vols.ir/client/file-sharing/user-download/2511270842" style="color:#ffce0f" target="_blank">این لینک</a></strong> دانلود نمایید و در مسیر templates آپلود نموده و اکسترکت کنید .<br>
   قالب شما بروزرسانی شد ولی اگر تغییرات را مشاهده نکردید یکبار محتویات پوشه tempate_c را حذف نمایید . تغییرات اعمال خواهند شد
   </p>
+  <p>رمز عبور : <pre>vo-hashtag-au1^%$QE</pre></p>
 </div>
